@@ -52,14 +52,16 @@ a:active{
 
 }
 
-span.main_column1{
+.main_column1{
 	display: inline-block;
-	width: 200px;
+    box-sizing: border-box;
+	width: 40%;
 }
 
-span.main_column2{
+.main_column2{
 	display: inline-block;
-	width: 500px;
+    box-sizing: border-box;
+	width: 50%;
 
 }
 
