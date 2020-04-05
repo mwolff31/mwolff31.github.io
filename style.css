@@ -23,22 +23,22 @@ body {
 	padding: 20px;
 }
 
-.nav li a:link {
+a:link {
 	color: DodgerBlue;
 	text-decoration: none;
 }
 
-.nav li a:visited {
+a:visited {
 	color: DodgerBlue;
 	text-decoration: none;
 }
 
-.nav li a:hover {
+a:hover {
 	color: DodgerBlue;
 	text-decoration: underline;
 } 
 
-.nav li a:active{
+a:active{
 	color: blue;
 	text-decoration: underline;
 }
