@@ -64,3 +64,11 @@ a:active{
 	padding: 0px;
 	align-content: left;
 }
+
+.pub_paper{
+	left: 20px;
+}
+
+.pub_authors{
+	left: 30px;
+}
