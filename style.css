@@ -1,0 +1,36 @@
+h1{
+	font-family:verdana;
+}
+
+.nav{
+	text-align: center;
+	padding: auto;
+	margin: auto;
+	font-family: verdana;
+}
+
+.nav li {
+	display: inline-block;
+	font-size: 20px;
+	padding: 20px;
+}
+
+.nav li a:link {
+	color: DodgerBlue;
+	text-decoration: none;
+}
+
+.nav li a:visited {
+	color: DodgerBlue;
+	text-decoration: none;
+}
+
+.nav li a:hover {
+	color: DodgerBlue;
+	text-decoration: underline;
+} 
+
+.nav li a:active{
+	color: blue;
+	text-decoration: underline;
+}
