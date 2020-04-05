@@ -47,13 +47,14 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 128px;
-  height: 128px;
+  width: 256px;
+  height: 300px;
 
 }
 
 .main_column1{
 	text-align: center;
-	width: 25%;
+	width: 50%;
 	padding: 0px;
+	align-content: center;
 }
