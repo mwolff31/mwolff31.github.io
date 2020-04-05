@@ -1,20 +1,17 @@
 h1{
-	font-family: verdana;
 }
 
 h2{
-	font-family: verdana;
 }
 
 body {
-	font-family: verdana;
+	font-family: "Courier New";
 }
 
 .nav{
 	text-align: center;
 	padding: auto;
 	margin: auto;
-	font-family: verdana;
 }
 
 .nav li {
