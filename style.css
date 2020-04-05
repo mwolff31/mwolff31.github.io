@@ -52,19 +52,15 @@ a:active{
 
 }
 
-.main_column1{
-	width: 50%;
-	padding: 0px;
-	float: left;
-	box-sizing: border-box;
+span.main_column1{
+	display: inline-block;
+	width: 200px;
 }
 
+span.main_column2{
+	display: inline-block;
+	width: 200px;
 
-.main_column2{
-	width: 50%;
-	padding: 0px;
-	float: left;
-	box-sizing: border-box;
 }
 
 .pub_paper{
