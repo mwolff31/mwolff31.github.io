@@ -53,8 +53,14 @@ body {
 }
 
 .main_column1{
-	text-align: center;
-	width: 100%;
+	width: 50%;
 	padding: 0px;
 	align-content: center;
+}
+
+
+.main_column2{
+	width: 50%;
+	padding: 0px;
+	align-content: left;
 }
