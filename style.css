@@ -66,9 +66,9 @@ a:active{
 }
 
 .pub_paper{
-	left: 20px;
+	padding-left: 20px;
 }
 
 .pub_authors{
-	left: 30px;
+	padding-left: 30px;
 }
