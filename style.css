@@ -52,22 +52,25 @@ a:active{
 .main_column1{
 	display: inline-block;
     box-sizing: border-box;
-    width: 300px;
-    margin-left: calc(50% - 300px);
+    width: 350px;
+    margin-left: calc(50% - 350px);
     float: left;
 }
 
 .main_column2{
 	display: inline-block;
     box-sizing: border-box;
-    width: 300px;
-    margin-right: calc(50% - 300px);
+    width: 400px;
+    margin-right: calc(50% - 400px);
 }
 
 .pub_paper{
-	padding-left: 50px;
+	margin-left: calc(50% - 350px);
 }
 
 .pub_authors{
-	padding-left: 100px;
+	padding-left: calc(50% - 350px + 100px);
 }
+
+
+.indent { text-indent: 40px; }
